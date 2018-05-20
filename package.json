@@ -1,0 +1,14 @@
+{
+  "name": "auto-onmyoji",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "AymaxLi",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "robotjs": "^0.5.1"
+  }
+}
